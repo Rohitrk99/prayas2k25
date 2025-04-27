@@ -1,0 +1,5 @@
+Pillow
+mysql-connector-python
+opencv-python
+dlib
+numpy
